@@ -1,0 +1,4 @@
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.csprojAssemblyReference.cache
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.csproj.CoreCompileInputs.cache
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.AssemblyInfoInputs.cache
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.AssemblyInfo.cs
