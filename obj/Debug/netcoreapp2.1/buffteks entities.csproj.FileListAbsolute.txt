@@ -2,3 +2,10 @@ C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks 
 C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.csproj.CoreCompileInputs.cache
 C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.AssemblyInfoInputs.cache
 C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.AssemblyInfo.cs
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\bin\Debug\netcoreapp2.1\buffteks entities.deps.json
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\bin\Debug\netcoreapp2.1\buffteks entities.runtimeconfig.json
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\bin\Debug\netcoreapp2.1\buffteks entities.runtimeconfig.dev.json
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\bin\Debug\netcoreapp2.1\buffteks entities.dll
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\bin\Debug\netcoreapp2.1\buffteks entities.pdb
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.dll
+C:\CIDM3312-BUFFTEKS PROJECT\buffteks entities\obj\Debug\netcoreapp2.1\buffteks entities.pdb

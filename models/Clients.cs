@@ -3,11 +3,19 @@ namespace buffteks_entites
 {
     public class Client
     {
-        public int ClientID {get; set;}
-        public string ClientFName {get; set;}
-        public string ClientLName {get; set;}
-        public string ClientBizName {get; set;}
-        public string ClientPhone {get; set;}
-        public string ClientEmail {get; set;}
+        public int ClientID{ get; set; }
+        //First Name
+        public string FirstName { get; set; }
+        //Last name
+        public string LastName { get; set; }        
+        //phone
+        public string PhoneNumber { get; set; }
+        //email
+        public string Email {get; set; }
+        //role
+        public string Role { get; set; }
+
+        public Organization Organization { get; set; }
+         public int OrganizationID { get; set; }
     }
 }

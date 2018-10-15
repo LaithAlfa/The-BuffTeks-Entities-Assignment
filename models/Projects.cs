@@ -11,5 +11,10 @@ namespace buffteks_entites
         public DateTime StartLine { get; set; }
         public string ProjectDesc { get; set;}
         public int ProjectClient { get; set; }
+
+
+         public int ClientID { get; set; }
+        public Client Client { get; set; }
+        
     }
 }
